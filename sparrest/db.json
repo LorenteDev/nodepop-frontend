@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "$2b$10$Z6oJg.BgeprBSPDAK/NjAemp7XpbKl6XCVcHRL/z7V4LudjJX0RT.",
+      "id": 1
+    },
+    {
+      "username": "Ususaurio",
+      "password": "$2b$10$Xvzy4gRp13hXWcxMQrQ2zuOQjZhBiAqbkbmhPMj4JI3Q/oPapCFa.",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Tinta gatuna",
+      "description": "La mejor tinta que puedes encontrar, la tinta gatuna negra",
+      "price": "25",
+      "selling": true,
+      "image": "http://127.0.0.1:8000//file-1614481513228.jpg",
+      "userId": 1,
+      "updatedAt": "2021-02-28T03:05:13.234Z",
+      "id": 1
+    },
+    {
+      "name": "Gatito en caja",
+      "description": "Un gatito en una caja, es irresistible. Cómpralo.",
+      "price": "60",
+      "selling": true,
+      "image": "http://127.0.0.1:8000//file-1614481541479.jpg",
+      "userId": 1,
+      "updatedAt": "2021-02-28T03:05:41.493Z",
+      "id": 2
+    },
+    {
+      "name": "Gatito mojado",
+      "description": "",
+      "price": "95",
+      "selling": false,
+      "image": "http://127.0.0.1:8000//file-1614481706118.jpg",
+      "userId": 1,
+      "updatedAt": "2021-02-28T03:08:26.125Z",
+      "id": 3
+    },
+    {
+      "name": "Silla ranita",
+      "description": "La silla más codiciada del universo puede ser tuya",
+      "price": "1337",
+      "selling": true,
+      "image": "http://127.0.0.1:8000//file-1614523655107.png",
+      "userId": 1,
+      "updatedAt": "2021-02-28T14:47:35.116Z",
+      "id": 4
+    },
+    {
+      "name": "Manzana",
+      "description": "Tengo hambre y quiero una manzana, es urgente.",
+      "price": "1",
+      "selling": false,
+      "image": "http://127.0.0.1:8000//file-1614523697703.png",
+      "userId": 1,
+      "updatedAt": "2021-02-28T14:48:17.710Z",
+      "id": 5
+    },
+    {
+      "name": "Detector para saber si eres un gato",
+      "description": "Necesario en cualquier hogar que se precie",
+      "price": "15.39",
+      "selling": true,
+      "image": "http://127.0.0.1:8000//file-1614523827104.jpg",
+      "userId": 1,
+      "updatedAt": "2021-02-28T14:50:27.124Z",
+      "id": 6
+    },
+    {
+      "name": "Papel higiénico portátil",
+      "description": "Para emergencias de todo tipo",
+      "price": "4.30",
+      "selling": true,
+      "image": "http://127.0.0.1:8000//file-1614524046846.jpg",
+      "userId": 2,
+      "updatedAt": "2021-02-28T14:54:06.856Z",
+      "id": 7
+    },
+    {
+      "name": "Mantequilla en barra",
+      "description": "Si viene en barra, es mejor",
+      "price": "2.50",
+      "selling": true,
+      "image": "http://127.0.0.1:8000//file-1614524067514.jpg",
+      "userId": 2,
+      "updatedAt": "2021-02-28T14:54:27.519Z",
+      "id": 8
+    },
+    {
+      "name": "Enfria-noodles",
+      "description": "¿Te sueles quemar al comer noodles? Pues eres un poco torpe, la verdad",
+      "price": "7.80",
+      "selling": true,
+      "image": "http://127.0.0.1:8000//file-1614524117226.jpg",
+      "userId": 2,
+      "updatedAt": "2021-02-28T14:55:17.232Z",
+      "id": 9
+    },
+    {
+      "name": "Mechero ecológico",
+      "description": "Si perteneces a greenpeace o fumas tanto que no te renta comprar mecheros convencionales, tira el dinero aquí",
+      "price": "15.20",
+      "selling": true,
+      "image": "http://127.0.0.1:8000//file-1614524205179.jpg",
+      "userId": 2,
+      "updatedAt": "2021-02-28T14:56:45.186Z",
+      "id": 10
+    },
+    {
+      "name": "Gafas de sol para cíclopes",
+      "description": "Si no eres un cíclope igual te funciona, pero no te lo aseguro, por si acaso",
+      "price": "25",
+      "selling": true,
+      "image": "http://127.0.0.1:8000//file-1614524293215.jpg",
+      "userId": 2,
+      "updatedAt": "2021-02-28T14:58:13.221Z",
+      "id": 11
+    },
+    {
+      "name": "Patito de goma gigante",
+      "description": "Para cuando tu código no funcione, será tu fiel compañero",
+      "price": "599",
+      "selling": true,
+      "image": "http://127.0.0.1:8000//file-1614524828556.jpg",
+      "userId": 2,
+      "updatedAt": "2021-02-28T15:07:08.576Z",
+      "id": 12
+    }
+  ]
+}
